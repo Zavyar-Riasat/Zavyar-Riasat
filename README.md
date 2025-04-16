@@ -44,8 +44,8 @@
     <a href="https://github.com/Zavyar-Riasat/Construction-Company-App">
         <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Zavyar-Riasat&repo=Construction-Company-App&cache_seconds=86400&theme=tokyonight" />
     </a>
-    <a href="https://github.com/Muhammad-Faizan-Alam/Muhammad-Faizan-Alam">
-        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Faizan-Alam&repo=Muhammad-Faizan-Alam&cache_seconds=86400&theme=tokyonight" />
+    <a href="https://github.com/Zavyar-Riasat/Talk.ai.git">
+        <img align=center width=350px  src="https://github-readme-stats.vercel.app/api/pin/?username=Zavyar-Riasat&repo=Zavyar-Riasat&cache_seconds=86400&theme=tokyonight" />
     </a>
 </p>
 

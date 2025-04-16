@@ -55,7 +55,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a title="nextjs" href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="50" height="50" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">

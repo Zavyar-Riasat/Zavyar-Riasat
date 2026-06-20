@@ -1,4 +1,4 @@
-![logo]([https://github.com/Zavyar-Riasat/Zavyar-Riasat/blob/main/linkedin%20bg%20img.png?raw=true]<img width="2000" height="600" alt="Brown Wood Minimalist Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/1090efc7-359d-434b-a4fe-f68c037ff241" />
+![logo]<img width="2000" height="600" alt="Brown Wood Minimalist Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/1090efc7-359d-434b-a4fe-f68c037ff241" />
 
 <h1 align="center">Hi 👋, I'm Zavyar Riasat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
